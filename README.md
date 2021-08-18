@@ -1,1 +1,1 @@
-# JavaScriptPalindromeChecker
+# JavaScript Palindrome Checker
