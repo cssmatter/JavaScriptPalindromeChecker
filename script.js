@@ -8,8 +8,10 @@ function palindromeChecker(){
 
     if(inputText === reverseText){
         result.innerHTML = "It's a Palindrome!!"
+        result.style.color = 'green'
     }else{
         result.innerHTML = "It's NOT a Palindrome"
+        result.style.color = 'grey'
     }
 }
 function ontype(){
