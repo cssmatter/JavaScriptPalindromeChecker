@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
 :root {
     --darkBackground: #264653;
-    --ligtBackground: #e1e1e1;
+    --ligtBackground: #fff;
 }
 *{
     box-sizing: border-box;
